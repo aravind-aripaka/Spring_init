@@ -1,0 +1,4 @@
+package com.example.autowire;
+
+public class name {
+}
